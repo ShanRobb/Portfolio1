@@ -1,10 +1,6 @@
-# Portfolio1
+# My Portfolio
 
-Hi everyone. My name is Shannon, and I am currently studying IT here at NECC with plans to finish with my degree this semester!
-
-## About Me:
-
-I've always found myself working or assisting with different types of systems, so I decided to switch my focus and career to IT a few years ago... And I haven't looked back since!
+Hi everyone. My name is Shannon, and I am currently finshing my degree in IT here at NECC where I have definitely taken away more than I even anticipated! Please come back for updates and more files.
 
 ## Contact Me:
 
